@@ -25,6 +25,15 @@ It detects the hardware of each computer, presents it through a customer-facing 
 **Technologies:** C#, .NET 8, WPF, Blazor Server and SignalR.
 
 ---
+### [Z-Source](https://github.com/zetaits/Z-Source)
+
+A local-first desktop application for multi-sport research, model evaluation and paper-bet tracking.
+
+It combines multiple external data providers with sport-specific probability models, automated result tracking, SQLite persistence, and performance and calibration metrics. It does not connect to bookmaker accounts or place real wagers.
+
+**Technologies:** Rust, Tauri 2, React, TypeScript, SQLite, TanStack Query and Vitest.
+
+---
 
 ### [ChronoMail Bridge](https://github.com/zetaits/ChronoMail-Bridge)
 
