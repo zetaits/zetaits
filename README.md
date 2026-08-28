@@ -45,7 +45,7 @@ Built for reliable long-running jobs, with persistent state, resumability, dedup
 
 ---
 
-### [Local Business Auditor](https://github.com/zetaits/Local-Business-Auditor)
+### [FixScout]([https://github.com/zetaits/Local-Business-Auditor](https://github.com/zetaits/FixScout))
 
 An automated website auditing application that crawls business websites, runs browser and performance checks, collects evidence and helps review technical and usability issues.
 
