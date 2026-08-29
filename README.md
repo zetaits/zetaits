@@ -1,4 +1,4 @@
-# Hi, I'm Raul 👋
+# Hi, I'm Raul
 
 **Full-stack developer focused on reliable business software, integrations and automation.**
 
